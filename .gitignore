@@ -27,6 +27,7 @@ text.txt
 /nbproject/private/
 /nbbuild/
 /dist/
+/output/
 /nbdist/
 /.nb-gradle/
 build/
